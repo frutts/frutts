@@ -1,7 +1,7 @@
 <p align="center">
  <img src="https://github.com/frutts/banerreadme/blob/bf6bd9b01a77432554464a2310e778c5618adc6e/Black%20Technology%20LinkedIn%20Banner(1).png">
 </p>
-<h1 align="center">Hello, my name is Sylwia :panda_face:</h1>
+<h1 align="center">Welcome to my world - the world of coffe and coding :panda_face:</h1>
 <h3 align="center">On my way from Health Care to IT 🔜💻</h3>
 <h3 align="center">I love learning new things and going deeper in subjects I already have knowledge about.</h3>
 
