@@ -11,7 +11,8 @@
 <p align="center">I’m currently learning JavaScript, TypeScript, React, Node.js</p>
 <p></p>
 <p align="center">Improving my skills in everyday tasks, spending time on learning new techniques and tools. You can also find me interested in QA.</p>
-
+<br>
+<p align="center">In the future I would like to create amazing things for other people.</p>
 <br>
 <p align="center">When I'm not developing and coding, you can find me watching Netflix, running or reading books. CrossFit was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
 
