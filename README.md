@@ -2,18 +2,7 @@
  <img src="https://github.com/frutts/banerreadme/blob/bf6bd9b01a77432554464a2310e778c5618adc6e/Black%20Technology%20LinkedIn%20Banner(1).png">
 </p>
 <h1 align="center">Welcome to my world - the world of coffee and coding :panda_face:</h1>
-<h3 align="center">On my way from Health Care to IT 🔜💻</h3>
-<br>
-<h3 align="center">I love learning new things and going deeper in subjects I already have knowledge about.</h3>
-
-<p align="center">I was a medical research coordinator. Right now I'm a student pursuing my Bachelor of Computer Science. I'm passionate about areas of Web Development, Web Design. 
-<br>
-<p align="center">I’m currently learning JavaScript, TypeScript, React, Node.js</p>
 <p></p>
-<p align="center">Improving my skills in everyday tasks, spending time on learning new techniques and tools. You can also find me interested in QA.</p>
-<br>
-<p align="center">In the future I would like to create amazing things for other people.</p>
-<br>
 <p align="center">When I'm not developing and coding, you can find me watching Netflix, running or reading books. CrossFit was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
 
 <br>
